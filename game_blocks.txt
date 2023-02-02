@@ -29,3 +29,17 @@ sites.google.com
 *nick*
 *minecraft*
 *skins*
+*namemc*
+*tynker*
+*laby*
+*novaskin*
+*mskins*
+*reddit*
+*facebook*
+*twitter*
+*pinterest*
+*fandom*
+*tlauncher*
+*fiverr*
+*photogramio*
+*tiktok*
