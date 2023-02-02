@@ -27,3 +27,5 @@
 *discovery*
 sites.google.com
 *nick*
+*minecraft*
+*skins*
