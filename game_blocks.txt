@@ -43,3 +43,5 @@ sites.google.com
 *fiverr*
 *photogramio*
 *tiktok*
+*instagram*
+*snapchat*
